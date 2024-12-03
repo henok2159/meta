@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
     <string name="app_name">metaTracking</string>
-
+    <string name="facebook_app_id">894507489528737</string>
+    <string name="facebook_client_token">6c4313e5c31f9a8837fdc16c5292a01a</string>
 </resources>
